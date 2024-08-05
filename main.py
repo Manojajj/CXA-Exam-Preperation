@@ -69,8 +69,25 @@ questions = {
             {"question": "Which color is often associated with trust in design?", "options": ["Red", "Blue", "Green", "Yellow"], "answer": "Blue"},
             {"question": "What is the primary goal of PET design?", "options": ["Aesthetic appeal", "User satisfaction", "Persuasion", "Speed optimization"], "answer": "Persuasion"},
             {"question": "Which of the following is a key element of trust in PET design?", "options": ["Visual design", "User testimonials", "Animation", "Color schemes"], "answer": "User testimonials"},
-            {"question": "What does the 'P' in PET design stand for?", "options": ["Performance", "Persuasion", "Psychology", "Perception"], "answer": "Persuasion"}
-            ],
+            {"question": "What does the 'P' in PET design stand for?", "options": ["Performance", "Persuasion", "Psychology", "Perception"], "answer": "Persuasion"},
+            {"question": "Emotions in PET design are primarily aimed at:", "options": ["Distracting users", "Engaging users", "Confusing users", "Informing users"], "answer": "Engaging users"},
+            {"question": "Trust in PET design can be increased by:", "options": ["Using flashy animations", "Displaying security badges", "Hiding terms and conditions", "Using complex language"], "answer": "Displaying security badges"},
+            {"question": "The 'E' in PET design refers to:", "options": ["Efficiency", "Engagement", "Emotion", "Ease of use"], "answer": "Emotion"},
+            {"question": "Which principle is essential for creating persuasive designs?", "options": ["User boredom", "User delight", "Complexity", "Monotony"], "answer": "User delight"},
+            {"question": "How does social proof work in PET design?", "options": ["By showing what other users are doing", "By hiding user activity", "By focusing on technical details", "By displaying random content"], "answer": "By showing what other users are doing"},
+            {"question": "An example of using emotion in PET design is:", "options": ["Simplifying navigation", "Using warm colors", "Speeding up load times", "Providing detailed technical specifications"], "answer": "Using warm colors"},
+            {"question": "Which principle is critical for building user trust?", "options": ["Clear communication and transparency", "Confusing navigation", "Long loading times", "Complex user interfaces"], "answer": "Clear communication and transparency"},
+            {"question": "The principle of reciprocity can be implemented by:", "options": ["Providing free resources", "Limiting user access", "Hiding information", "Using dark patterns"], "answer": "Providing free resources"},
+            {"question": "In PET design, emotions can be triggered by:", "options": ["High-quality visuals and storytelling", "Boring content", "Confusing layouts", "Long load times"], "answer": "High-quality visuals and storytelling"},
+            {"question": "Trust signals in PET design include:", "options": ["Clear and concise privacy policies", "Flashy animations", "Bright colors", "Complex navigation"], "answer": "Clear and concise privacy policies"},
+            {"question": "Persuasion in PET design can be achieved by:", "options": ["Providing clear and concise calls to action", "Using confusing language", "Ignoring user feedback", "Hiding information"], "answer": "Providing clear and concise calls to action"},
+            {"question": "Emotions in PET design can be conveyed through:", "options": ["Engaging and interactive content", "Boring layouts", "Confusing navigation", "Monotonous color schemes"], "answer": "Engaging and interactive content"},
+            {"question": "The principle of scarcity in PET design aims to:", "options": ["Increase user trust", "Encourage immediate action", "Reduce user engagement", "Lower user anxiety"], "answer": "Encourage immediate action"},
+            {"question": "What is a common method to build trust in PET design?", "options": ["Using low-quality images", "Providing clear privacy policies", "Hiding terms of service", "Using complex jargon"], "answer": "Providing clear privacy policies"},
+            {"question": "Which color is often associated with trust in design?", "options": ["Red", "Blue", "Green", "Yellow"], "answer": "Blue"},
+            {"question": "What is the primary goal of PET design?", "options": ["Aesthetic appeal", "User satisfaction", "Persuasion", "Speed optimization"], "answer": "Persuasion"},
+            {"question": "Which of the following is a key element of trust in PET design?", "options": ["Visual design", "User testimonials", "Animation", "Color schemes"], "answer": "User testimonials"}
+        ],
 
         
         "Mock Test 3": [
