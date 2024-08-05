@@ -5,9 +5,9 @@ questions = {
     "Module 1: PET Design": {
         "Mock Test 1": [
             {"question": "What is the primary goal of PET design?", "options": ["Aesthetic appeal", "User satisfaction", "Persuasion", "Speed optimization"], "answer": "Persuasion"},
-            {"question": "Question 2?", "options": ["A", "B", "C", "D"], "answer": "B"},
-            {"question": "Question 3?", "options": ["A", "B", "C", "D"], "answer": "B"},
-            {"question": "Question 4?", "options": ["A", "B", "C", "D"], "answer": "B"},
+            {"question": "Which of the following is a key element of trust in PET design?", "options": ["Visual design", "User testimonials", "Animation", "Color schemes"], "answer": "User testimonials"},
+            {"question": "What does the 'P' in PET design stand for?", "options": ["Performance", "Persuasion", "Psychology", "Perception"], "answer": "Persuasion"},
+            {"question": "Which psychological principle is often used in PET design to influence user behavior?", "options": ["Reciprocity", "Aesthetics", "Navigation", "Speed"], "answer": "Reciprocity"},
             {"question": "Question 5?", "options": ["A", "B", "C", "D"], "answer": "B"},
             {"question": "Question 6?", "options": ["A", "B", "C", "D"], "answer": "B"},
             {"question": "Question 7?", "options": ["A", "B", "C", "D"], "answer": "B"},
