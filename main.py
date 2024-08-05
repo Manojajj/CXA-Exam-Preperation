@@ -4,7 +4,7 @@ import streamlit as st
 questions = {
     "Module 1: PET Design": {
         "Mock Test 1": [
-            {"question": "Question 1?", "options": ["A", "B", "C", "D"], "answer": "A"},
+            {"question": "What is the primary goal of PET design?", "options": ["Aesthetic appeal", "User satisfaction", "Persuasion", "Speed optimization"], "answer": "Persuasion"},
             {"question": "Question 2?", "options": ["A", "B", "C", "D"], "answer": "B"},
             {"question": "Question 3?", "options": ["A", "B", "C", "D"], "answer": "B"},
             {"question": "Question 4?", "options": ["A", "B", "C", "D"], "answer": "B"},
